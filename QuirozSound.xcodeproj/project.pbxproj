@@ -14,6 +14,7 @@
 		48F06B4929071B8600D779F8 /* QuirozSound.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 48F06B4729071B8600D779F8 /* QuirozSound.xcdatamodeld */; };
 		48F06B4B29071B8700D779F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48F06B4A29071B8700D779F8 /* Assets.xcassets */; };
 		48F06B4E29071B8700D779F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48F06B4C29071B8700D779F8 /* LaunchScreen.storyboard */; };
+		48F06B562907250700D779F8 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F06B552907250700D779F8 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		48F06B4A29071B8700D779F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		48F06B4D29071B8700D779F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		48F06B4F29071B8700D779F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48F06B552907250700D779F8 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				48F06B4029071B8500D779F8 /* SceneDelegate.swift */,
 				48F06B4229071B8500D779F8 /* ViewController.swift */,
 				48F06B4429071B8500D779F8 /* Main.storyboard */,
+				48F06B552907250700D779F8 /* SoundViewController.swift */,
 				48F06B4A29071B8700D779F8 /* Assets.xcassets */,
 				48F06B4C29071B8700D779F8 /* LaunchScreen.storyboard */,
 				48F06B4F29071B8700D779F8 /* Info.plist */,
@@ -145,6 +148,7 @@
 				48F06B3F29071B8500D779F8 /* AppDelegate.swift in Sources */,
 				48F06B4129071B8500D779F8 /* SceneDelegate.swift in Sources */,
 				48F06B4929071B8600D779F8 /* QuirozSound.xcdatamodeld in Sources */,
+				48F06B562907250700D779F8 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
